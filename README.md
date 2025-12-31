@@ -30,6 +30,9 @@ in a responsive frontend UI.
 
 ---
 
+## github link
+https://github.com/Ravi-Rathod143/mast.git
+
 ## Local Setup Instructions
 
 ### Prerequisites
@@ -78,3 +81,9 @@ Backend (Node.js + Express.js)
         v
 MongoDB Database
 
+## UI/UX
+
+- Clean card-based layout
+- Responsive grid using CSS Grid
+- Mobile-first design
+- Graceful loading and error states
