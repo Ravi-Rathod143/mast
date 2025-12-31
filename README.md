@@ -33,6 +33,9 @@ in a responsive frontend UI.
 ## github link
 https://github.com/Ravi-Rathod143/mast.git
 
+## live preview
+https://mastre-3nyxp29yp-ravibhais-projects.vercel.app/
+
 ## Local Setup Instructions
 
 ### Prerequisites
