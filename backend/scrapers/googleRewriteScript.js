@@ -1,0 +1,1 @@
+console.log("AI rewrite script placeholder");
